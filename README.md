@@ -17,7 +17,7 @@ Secondary Objectives: There are multiple secondary objectives in this paper. The
 ## Replicated Table 1
 ![Table 1](Table1.png)
 
-As seen from the table above, most of the numbers are the exact same as the paper's Table 1. There are a couple of minute differences, like how the interquartile range for age is 21-27 for my table while it is 23-27 in the paper's table. Any other differences is at most 0.1.
+As seen from the table above, most of the numbers are the exact same as the paper's Table 1. There are a couple of minute differences, like how the interquartile range for age is 21-27 for my table while it is 23-27 in the paper's table. Any other differences is at most 0.1/0.2.
 
 ## Replicated Results
 
@@ -44,7 +44,10 @@ As seen from the table above, most of the numbers are the exact same as the pape
 When attempting to replicate the paper's work, it was a bit harder than I imagined. There would be times where I would get extremely close to replicating the results, but off by a few decimal places in the p-value. I had to wonder whether that meant I was doing something wrong or if the paper gave unreplicable work. The uncertainty of whether I had actually replicated the work the best I could get.
 
 Primary Results:
+
 In the primary analysis I did not know how they got such a low p-value for Bing. If I were to impute a row that included Bing, then I could maybe see how they got such a low p-value. However, since there aren't any Bing entries, I'm not sure what I could do besides say that the p-value for Bing was basically 1 and statistically insignificant. That was one big change with my results and the paper's. Another difference was in the p-values I was getting for Wave 1. The paper states that they got a Hockberg-adjusted P = 0.59 in Wave 1, while the p-values I got were 0.747. Although I wasn't able to get the exact same values as the paper for the p-values, the main idea was still the same. None of the Wave 1 results were statistically significant differences across the platforms. They were all way over the 0.05 threshold. But besides my difference in results for Wave 2 Bing, my Wave 2's relationship between Jack'd and Instagram was very statistically significant, just like how the paper says.
+
+For the actual rates themselves, I did find that Jack'd's rate was 3.29, Instagram's was 0.34, and Bing's was 0 just like how the paper says as well.
 
 Secondary Results:
 
